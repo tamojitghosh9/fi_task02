@@ -1,0 +1,37 @@
+KEY FINDINGS & RECOMMENDATIONS
+
+1)KPI Cards: 
+Key Finding: The current churn rate of 26.5% indicates a high customer turnover that significantly offsets new acquisition efforts.
+Recommendation: Reducing this by 5% or so would highly improve the long-term Customer Lifetime Value (CLV) and profitability.
+
+2) Churn by Contract Type (Donut chart)
+Key Finding: Month-to-month contracts are the primary source of churn, whereas multi-year contracts show exceptionally high retention.
+Recommendation: Incentivize the "Contract Bridge" by offering a small discount for users to migrate from monthly to annual billing.
+
+3) Churn Rate by Tenure Group (Clustered Column chart)
+Key Finding: The highest churn occurs within the first 12 months, making it the "critical window" for customer success.
+Recommendation: Implement a robust 90-day onboarding program to ensure new users find value early and survive the high-risk first year.
+
+4) Service Stickiness heatmap (Matrix visual)
+Insight: Fiber Optic users on month-to-month plans represent our highest revenue risk cohort.
+Recommendation: Plan prioritized proactive outreach and loyalty offers specifically for this high-value, high-risk segment.
+
+5) Service Influence (Stacked Bar chart)
+Key Finding: Customers using Fiber Optic internet who do not have Online Security represent the highest churn volume in the entire dataset.
+Recommendation: Launch a "Security First" campaign targeting Fiber Optic users; offering a discounted bundle for security services can act as a "lock-in" mechanism to improve retention in this particularly premium segment.
+
+6) Customer Table (Detailed data view)
+Key Finding: This table allows for granular identification of high-value "at-risk" customers (those with high Monthly Charges and Month-to-month contracts) before they churn.
+Advise: Use this list to feed a "High-Touch" customer success workflow where account managers reach out personally to the top 50 highest-paying monthly customers to offer loyalty incentives.
+
+7) Payment Friction analysis (Clustered Bar chart)
+Key Finding: We are losing significant annual revenue specifically from customers using "Electronic Check" payments. Paperless billing combined with automated payments creates the most "frictionless" and loyal customer experience.
+Recommendation: Mitigate "passive churn" by transitioning customers to automated Credit Card or Bank Transfer payments. Phase out manual paper billing to reduce the monthly "re-decision" point that leads to churn.
+
+8) Product Density (Line and Stacked Column chart)
+Insight: Churn rate drops exponentially as customers adopt three or more services.
+Strategic Move: Focus marketing efforts on "cross-selling" existing customers rather than just acquiring new single-service users.
+
+9) Price Sensitivity (Area Chart)
+Insight: A "Price Wall" exists at the $70–$80 mark where churn peaks regardless of the service quality.
+Recommendation: Re-evaluate our mid-tier pricing to ensure we aren't pushing customers toward competitors when their bill hits this threshold.
