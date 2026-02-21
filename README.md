@@ -37,4 +37,10 @@ actions :-
 
   v) Total Customers = COUNTROWS('WA_Fn-UseC_-Telco-Customer-Churn (1)')
 
+- created new table to include in report:
+
+  Table name - Strategic_Targets
+
+  Fields - i) Strategic Goal   ii) KPI to track   iii) Target Outcome
+
 NOTE: Open the .pbix file, go to the dashboard/report view and use the interactive charts and graphs to view the data in a structured and categorized format, according to your wish. Use the dropdown slicers to filter out results and see required information.
