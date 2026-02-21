@@ -1,0 +1,33 @@
+EXECUTIVE SUMMARY
+
+Project Goal: To identify the primary drivers of customer attrition and provide data-driven recommendations to stabilize revenue and increase the Customer Lifetime Value (CLV).
+
+Current Status: The organization is experiencing a 26.54% churn rate, which is high for a subscription-based model. Analysis reveals that churn is not random; it is heavily concentrated among new customers (tenure<12 months) and those on Month-to-Month contracts. There is a clear "Service Stickiness" correlation—as customers adopt more auxiliary services (Security, Tech Support, etc.), their likelihood of leaving drops significantly. Financially, the "Electronic Check" payment method is the leakiest bucket, contributing to a substantial portion of revenue loss.
+
+Strategic Roadmap (Revenue & Retention Recovery)
+This roadmap is designed to move the business from a 26.5% churn rate down to an industry-standard 5-10% range over the next 12 months.
+
+Phase 1: Immediate Stabilization (Months 0–3)
+Focus: Plugging the biggest revenue leaks and securing the "At-Risk" base.
+
+Action 1: The "Contract Migration" Campaign. Strategy: Target month-to-month users with a "loyalty locked-in" discount (e.g., 10% off) for switching to a 12-month contract.
+    Target: High-value Fiber Optic users who are currently on monthly billing.
+
+Action 2: Payment Automation Incentives. Strategy: Reach out to "Electronic Check" users with a one-time bill credit (e.g., $10) to switch to automatic credit card or bank transfer payments. This eliminates "passive churn" due to payment forgetfulness.
+
+Action 3: High-Priority Onboarding for New Signups. Strategy: Implement a "Concierge Onboarding" for customers in their first 30 days. Our data shows that if they survive Month 1, their lifetime value triples.
+
+Phase 2: Product Stickiness & Value Optimization (Months 3–9)
+Focus: Deepening the customer relationship through feature adoption.
+
+Action 4: Security-First Bundling.  Strategy: Based on the finding that "Online Security" reduces churn, offer a free 3-month trial of this service to all existing Fiber Optic users.Goal: Increase the "Service Density" per customer (Target: 3+ services per account).
+
+Action 5: Pricing Tier Realignment.  Strategy: Address the "$70 Price Wall" by introducing a mid-tier "Value Bundle" at $55–$60.
+    Goal: Retain price-sensitive customers who are currently leaving once their bill hits the $70 threshold.
+
+Phase 3: Mature Retention & Growth (Months 9–12+)
+Focus: Scaling automated retention and improving long-term CLV (Customer Lifetime Value).
+
+Action 6: Predictive Churn Modeling Integration.  Strategy: Automate the "Key Influencers" logic into your CRM. When a customer’s behavior matches a churn profile (e.g., they drop a service or call support), trigger an automatic loyalty offer.
+
+Action 7: Loyalty Tier Program.  Strategy: Create a "Gold/Platinum" tier for customers with 24+ months of tenure, offering them early access to new tech or priority support to solidify the long-term base.
